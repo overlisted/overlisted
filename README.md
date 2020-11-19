@@ -11,3 +11,4 @@ A young Debian user and programmer.
 - C++ - **Bullshit but faster**
 - Shell - I only like bash and zsh
 - Haskell - I'm not a pro at it but it's pretty interesting
+- Rust - Fast and amazing
