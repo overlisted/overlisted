@@ -12,3 +12,6 @@ A young Debian user and programmer.
 - Shell - I only like bash and zsh
 - Haskell - I'm not a pro at it but it's pretty interesting
 - Rust - Fast and amazing
+
+[![Stats card](https://github-readme-stats.vercel.app/api?username=overlisted&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=overlisted&layout=compact&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
