@@ -1,5 +1,5 @@
 # Me
-A young Debian user and programmer.
+Um, basically, yeah, uh...
 
 ### Languages I can write in:
 - Java - **Bullshit**
