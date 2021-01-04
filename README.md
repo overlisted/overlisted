@@ -1,5 +1,5 @@
 # Me
-Um, basically, yeah, uh...
+So, um, basically, yeah, uh... Well, I just wanna say, uhhhh...
 
 ### Languages I can write in:
 - Java - **Bullshit**
